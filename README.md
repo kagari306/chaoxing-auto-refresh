@@ -45,14 +45,17 @@
 
 🧠 开发说明
 项目文件结构：
-
+```
 chaoxing-auto-refresh/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
 └── chaoxing-auto-refresh.user.js
+```
 开发者可通过修改 .user.js 文件定制逻辑，如增加刷新次数限制或提示弹窗。
 
 📄 License
+
 本项目基于 MIT License 开源。
+
 Copyright © 2025 Kagari
